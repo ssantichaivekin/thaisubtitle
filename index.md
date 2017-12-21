@@ -1,38 +1,22 @@
+# เรามาใส่ซับให้วีดีโอในยูทูบกันดีกว่า เย้
+
+การใส่สับให้วีดีโอในยูทูบโดยหลัก ๆ ทำได้สองวิธี วิธีแรกคือใส่ซับผ่านทางยูทูบตรง ๆ เลย กับอีกวิธีคือใส่ผ่านทาง Amara ตอนนี้เรามาดูวิธีแรกกันก่อนนะ
+
 ![Crashcourse Subtitling Animation]({{ site.url }}/thaisubtitle/assets/animation.gif)
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/ssantichaivekin/thaisubtitle/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+1. เปิดเว็บไซต์ที่เราต้องการใส่ซับขึ้นมาแล้วกดเข้าไปที่ "การตั้งค่า" (Settings) สัญลักษณ์จะเป็นรูปเฟือง
+1. กดที่ "คำบรรยาย" (Subtitles/CC)
+1. ในหน้าคำบรรยายจะเห็นรายชื่อภาษาที่มีคนเคยใส่ซับเอาไว้แล้ว ให้กดเข้าไปที่ "เพิ่มคำบรรยาย" (Add Subtitles/CC)
+1. ยูทูบจะพาเราไปที่อีกหน้านึง ให้กด "เลือกภาษา" (Select Languages) 
+1. เลือกภาษาไทย
+1. ทีนี้เราจะเห็นแคปชั่นภาษาอังกฤษอยู่ด้านซ้าย และมีกรอบข้อความภาษาไทยอยู่ด้านล่าง เวลาเราแปล เราก็จะใส่หรือแก้ข้อความภาษาไทย ทำไปเรื่อย ๆ จนกว่าจะเสร็จหมดทั้งวีดีโอ
+    - เราสามารถใช้ปุ่ม \<Shift\> + \<ลง\> หรือ \<Shift\> + \<ขึ้น\> ในการข้ามไปกล่องข้อความต่อไปหรือกล่องก่อนหน้าได้นะ ถ้าอยากดูคีย์ลัดเพิ่มให้เข้าไปดูที่มุมบนขวา แนะนำให้ลองเข้าไปดูจ้า
+1. ทำเสร็จแล้วสามารถดาวน์โหลดไฟล์ของตัวเองได้โดยการกดที่ "การทำงาน" (Actions) แล้วไปที่ "ดาวน์โหลด" (Download) เวลาทำงานเสร็จควรจะโหลดเก็บเอาไว้นะ
+    - ในทำนองเดียวกัน เราสามารถอัพโหลดไฟล์ที่เรามีอยู่ขึ้นไปวนเว็บได้โดยใช้ปุ่ม "อัพโหลดไฟล์" (Upload a file) ที่อยู่ข้าง ๆ กัน
+1. หลังจากแปลเสร็จแล้วก็ไปเลื่อน ๆ ความยาวของแต่ละข้อความให้เหมาะสม
+1. ดาวน์โหลดอีกรอบก็ดีนะ 55555
+1. พอทำทุกอย่างเสร็จแล้วก็ไปกด "ส่งการร่วมให้คำบรรยาย" 
+1. กด "ใช่ - คำบรรยายพร้อมที่จะรับการตรวจสอบ" (Yes - They are ready to be reviewed)
+1. กด "ส่ง" (Submit)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ssantichaivekin/thaisubtitle/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+แค่นี้ก็เสร็จแล้ว! ยูทูบจะถามเราว่าอยากแปลชื่อวีดีโอกับคำอธิบายวีดีโอด้วยรึเปล่า ถ้าอยากแปลด้วยก็กด "แปลภาษา" (Translate) ต่อไปเลยจ้า
