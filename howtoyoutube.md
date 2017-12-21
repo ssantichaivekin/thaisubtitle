@@ -1,5 +1,6 @@
 ---
 show-header: false
+title: มาใส่ซับให้วีดีโอในยูทูบกันเถอะ
 description: วิธีใส่ซับไทเทิลให้วีดีโอใน YouTube
 ---
 
